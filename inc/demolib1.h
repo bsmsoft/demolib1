@@ -1,1 +1,1 @@
-int demo_lib1_factorial(int n);
+int demo_lib1_fibonacci(int n);
